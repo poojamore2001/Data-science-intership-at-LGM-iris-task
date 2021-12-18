@@ -1,1 +1,0 @@
-# Data-science-intership-at-LGM-iris-task
